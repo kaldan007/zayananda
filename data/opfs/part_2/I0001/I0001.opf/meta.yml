@@ -1,0 +1,11 @@
+id: I0001
+imported: 2023-02-17 00:28:42.664434
+last_modified: 2023-02-17 00:28:42.664454
+bases:
+  A718:
+    source_metadata: {}
+    order: 1
+    base_file: A718.txt
+copyright:
+  status: Unknown
+  notice: ''
